@@ -3,4 +3,4 @@
 Flutter project
 
 ```bash
-git clone https://github.com/zhanabilabay/flutterBotttomBar
+git clone https://github.com/zhanabilabay/flutterBottomBar
